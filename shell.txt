@@ -1,1 +1,21 @@
 this is a sample file by using shell cmds.
+###
+working with shell cmds...
+//git init
+//echo "This is a sample file." > sample.txt
+//git status
+//git add sample.txt
+//git commit -m "Add sample.txt"
+....branching/
+//git branch feature-branch
+//git checkout feature-branch
+//git switch feature-branch
+//echo "New feature in progress." >> sample.txt
+//git add sample.txt
+git commit -m "Implement feature"
+//git merge feature-branch
+//git remote add origin <repository_url>
+//git push -u origin master
+//git pull origin master
+
+###
